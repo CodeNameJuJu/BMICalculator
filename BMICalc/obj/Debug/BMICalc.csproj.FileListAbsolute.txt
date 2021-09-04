@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\BMICalc\BMICalc\bin\Debug\BMICalc.exe.config
+C:\Users\Julian\source\repos\BMICalc\BMICalc\bin\Debug\BMICalc.exe
+C:\Users\Julian\source\repos\BMICalc\BMICalc\bin\Debug\BMICalc.pdb
+C:\Users\Julian\source\repos\BMICalc\BMICalc\obj\Debug\BMICalc.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\BMICalc\BMICalc\obj\Debug\BMICalc.Form1.resources
+C:\Users\Julian\source\repos\BMICalc\BMICalc\obj\Debug\BMICalc.Properties.Resources.resources
+C:\Users\Julian\source\repos\BMICalc\BMICalc\obj\Debug\BMICalc.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\BMICalc\BMICalc\obj\Debug\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\BMICalc\BMICalc\obj\Debug\BMICalc.exe
+C:\Users\Julian\source\repos\BMICalc\BMICalc\obj\Debug\BMICalc.pdb
